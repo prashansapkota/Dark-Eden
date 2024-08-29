@@ -1,0 +1,4 @@
+1. Attack 
+2. Use Item
+3. Use Special
+4. Run Away

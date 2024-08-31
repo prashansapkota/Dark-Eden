@@ -1,0 +1,6 @@
+Warrior Armor 
+Bandit Armor
+Goblin Armor
+Knight Armor
+Champion Armor
+King's Armor

@@ -4,6 +4,8 @@ import java.util.Scanner;
 
 public class Main {
 
+
+
 	public static void main(String[] args) throws FileNotFoundException
 	{
 		Play player1 = new Play("Warrior",15, 15,1, "Sword", 3, 3,"Slash", 5, "Warrior Armor", 0, false);

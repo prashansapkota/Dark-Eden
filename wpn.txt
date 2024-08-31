@@ -1,0 +1,5 @@
+Sword 3
+Greatsword 4
+Spear 2
+Stick 1
+Champion's_Sword 6
